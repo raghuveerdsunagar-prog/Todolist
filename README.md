@@ -16,7 +16,7 @@ A simple task management app built with React and Vite. Users can add, manage, a
 - Vite
 - JavaScript (ES6+)
 - CSS  / Ant Design
-- nodejs prisma
+
 
   ## Installation
 
