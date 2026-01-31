@@ -1,5 +1,36 @@
 # React + Vite
 
+
+ Todolist (React + Vite)
+A simple task management app built with React and Vite. Users can add, manage, and organize tasks with a clean and responsive UI.
+
+
+
+## Features
+- Add new tasks
+- Mark tasks as complete
+- Delete tasks
+- Responsive design (works on desktop and mobile)
+## tech stack used
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS  / Ant Design
+- nodejs prisma
+
+  ## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/todolist.git
+   cd todolist
+
+   npm install
+
+   npm run dev
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
